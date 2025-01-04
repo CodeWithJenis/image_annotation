@@ -1,0 +1,10 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+car:128,0,0::
+bus:0,128,0::
+motorcycle:128,128,0::
+ambulance:0,0,128::
+truck:128,0,128::
+news_gathering_vehicle:0,128,128::
+formula_1_race_car:128,128,128::
+police_vehicle:64,0,0::
