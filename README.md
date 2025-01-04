@@ -1,6 +1,6 @@
 # Image Annotation Project
 
-This repository contains datasets and resources for various image annotation tasks, including object detection, segmentation, and instance recognition. The project involves annotating images for machine learning applications, particularly in the domain of vehicle and animal detection for now. I may add more technique in image annotation with more different types of datasets.
+This repository contains datasets and resources for various image annotation tasks, including object detection, segmentation, and instance recognition. The project involves annotating images for machine learning applications, particularly in the domain of vehicle and animal detection for now. I may add more technique in image annotation with more different types of datasets in near future.
 
 ## Folders and Files
 
