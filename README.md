@@ -8,6 +8,7 @@ This repository contains datasets and resources for various image annotation tas
 - **animal_detection_boundingbox_instance_segmentation_coco1.0/**: Contains video files (explaining the project) and images related to animal detection with bounding box annotations.
 - **vehicle_detection_boundingbox_pascal_voc1.1/**: Includes video explanation of the project and images focused on vehicle detection with bounding box annotations.
 - **vehicle_detection_polygon_segmentation_coco1.0/**: Contains vehicle detection data with polygon segmentation annotations with original images and video explanation of the project.
+- **football_semantic_segmentation_coco1.0/**: Includes semantic segmentation data for football images, consisting of original images, segmentation annotations (instances_default.json), and a video explanation of the project.
 
 ### Files:
 - `.mp4` video files use for learning how project was done.
